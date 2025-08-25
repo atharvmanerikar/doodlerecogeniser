@@ -67,7 +67,7 @@ Once the server is running, you can access:
 ├── schemas.py          # Pydantic models
 ├── services.py         # Business logic
 ├── requirements.txt    # Project dependencies
-└── .env.example       # Example environment variables
+└── .env       # Example environment variables
 ```
 
 ## Environment Variables
